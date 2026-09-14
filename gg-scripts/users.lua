@@ -10,7 +10,7 @@ function main()
     gg.alert(message, title)
     
     -- Optional: Show a more detailed message
-    -- gg.alert("Your subscription has expired.\n\nPlease renew your subscription to continue.\n\nThank you!", "Subscription Required")
+    -- gg.alert("Your subscription has expired.\n\nPlease renew your subscription to continue.\n\nThank you!", "Subscription Required") 
     
     -- Exit the script after showing the message
     os.exit()
